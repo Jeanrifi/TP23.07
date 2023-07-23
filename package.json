@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
+    "drei": "^2.2.21",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.154.0"
+  }
+}
